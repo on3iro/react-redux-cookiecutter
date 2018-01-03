@@ -1,3 +1,5 @@
+**Note: This repository has been archived in favor of: https://github.com/4so-fourseasons/react-redux-cookiecutter**
+
 <img src="img/web.png" width="300px" />
 
 # ToC
